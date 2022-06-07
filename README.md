@@ -1,4 +1,4 @@
-# Mastermind_CSCI_350
+# Mastermind_AI
 
 ## Agent playing Matermind
 https://en.wikipedia.org/wiki/Mastermind_(board_game)
